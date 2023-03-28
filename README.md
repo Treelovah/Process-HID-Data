@@ -2,6 +2,7 @@
 
 ## HTB Forensics Challenge 
 ### LOGGER
+Challenge here: https://app.hackthebox.com/challenges/logger
 
 In today's world, we are surrounded by a sea of digital devices, each with their own unique HID data. HID, or Human Interface Device, data includes input from devices like keyboards, mice, and game controllers, and is crucial for incident responders to understand in order to quickly identify potential threats.
 
